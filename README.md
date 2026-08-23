@@ -1,6 +1,6 @@
 # GitHub PR Tool
 
-## 🚀 Overview
+## 🚀 Details
 
 **GitHub PR Tool** is a web-based application designed to simplify and streamline GitHub Pull Request workflows. The project provides an easy-to-use interface for working with repositories and managing pull request-related operations.
 
