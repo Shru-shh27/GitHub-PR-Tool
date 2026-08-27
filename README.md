@@ -27,20 +27,6 @@ This project may include the following technologies:
 * **Version Control:** Git & GitHub
 * **GitHub Integration:** GitHub APIs
 
-## 📂 Project Structure
-
-```text
-GitHub-PR-Tool/
-│
-├── src/                # Application source code
-├── public/             # Static files
-├── components/         # Reusable UI components
-├── services/           # API and GitHub-related services
-├── package.json        # Project dependencies
-├── vite.config.js      # Vite configuration
-└── README.md           # Project documentation
-```
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
