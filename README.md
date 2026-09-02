@@ -17,7 +17,7 @@ The goal of this project is to make common GitHub PR tasks more convenient and a
 * ⚡ Fast and efficient workflow
 * 📱 Responsive design
 
-## 🛠️ Tech Stack
+## 🛠️ Tech-Stack
 
 This project may include the following technologies:
 
